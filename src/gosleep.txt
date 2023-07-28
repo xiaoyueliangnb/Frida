@@ -1,0 +1,126 @@
+
+Request KeyUrl= /login_api/token_login 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2ODI0ODM2NjQuNDI2NTE1LCJ1aWQiOjYwMDA3ODU0MSwiZXgiOjE2ODMwODg0NjQuNDI2NTE1M30._gcXBI5_e2Hr7uml7zFXWcC5LONOSxEn04gqfdgSRz8"},"platform":"10","sign":"2bc5b3319cdec9d736bdc8d94c197c14","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Response KeyUrl= /login_api/token_login 
+json=> {"data":{"access_01":"nzvz7qVq1+gmbAPXGI3CuQ==","access_02":"n5ftWvJ2JveoQQ==","account_status":0,"account_type":60,"area_code":"CN","avatar":"6","bnb":0,"bonus":0,"deputy_chain_coin":0,"email":"alonzorecinos974@gmail.com","gender":1,"gold":0,"gold_deposit":0,"gold_ratio":10000,"gold_withdraw":0,"is_register":0,"lv_info":{"ex":0,"lv":1,"mul":1,"next_ex":50},"mainNetCoin":0,"nick":"Player","ntoken":81514,"server_list":["18.143.161.137:32205"],"signature":"","stoken":0,"ticket":81514,"today_first_login":0,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2ODI0ODM2OTYuMDU1NzkwNCwidWlkIjo2MDAwNzg1NDEsImV4IjoxNjgzMDg4NDk2LjA1NTc5MX0.Tjo87bhtNEbb5yuNefB-jfBa6S7bUu_ja-ZMV7T9Ja0","uid":600078541,"wallet_addr":null},"ret":0,"time":1682483696} 
+mins=> 1682483696
+
+Request KeyUrl= /wallet_api/cloud_wallet_config 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /sleep_nft/nft_level_function 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /app_version_update_api/app_update 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{"client_os":"Android","version":"2.0.1"},"platform":"10","sign":"11e772da6c2722ba22f6febb9b8e561e","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /nft_market_api/config 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /sleep_rank_api/get_last_season 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /nft_module_market_api/config 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /sleep_nft/sleep_raw_data 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{"db_id":1330878},"platform":"10","sign":"69525e576da13aa3cc1713b21ec8dedc","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /sleep_rank_api/rank_config 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /sleep_nft/config_info 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /sleep_nft/get_sleep_target 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /sleep_nft/sleep_expected_reward 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /sleep_nft/get_output_zzz 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /user_api/get_user_info 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /nft_module_api/nft_used_info 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{},"platform":"10","sign":"ad82c16cce0acad589836ca806475fd2","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /user_behavior_api/add_info 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{"interface_type":3},"platform":"10","sign":"06e8c571b30f8c314dd63a3e7ae8c72e","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /sleep_nft/new_sleep_reward 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{"sleep_time_list":[{"end":1682467769,"start":1682445089,"state":1}]},"platform":"10","sign":"b25c1789cb30a28acc1fbd860a1cf687","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Request KeyUrl= /sleep_nft/new_sleep_reward 
+json=> {"channel":"GPID_And_001","device_id":"b89c5cd008b55f62flameunknown","language":"HK","machine":"google-Pixel 4","main_version":201,"os":"Android","params":{"sleep_time_list":[{"end":1682467769,"start":1682445089,"state":1}]},"platform":"10","sign":"b25c1789cb30a28acc1fbd860a1cf687","time_zone":"Asia/Shanghai","uid":600078541,"unity_version":0,"version":"2.0.1"}
+
+Response KeyUrl= /wallet_api/cloud_wallet_config 
+json=> {"data":{"bnb_address":[{"address":"0x36d52D8E8814a2B42fD7308173A553bde05b6922","chain":"bnb","name":"BSC"}],"coins":[{"coin":"ngt","deposit_min":1000,"is_nft":0,"transfer_fee":0,"transfer_min":0,"withdrawal_fee":10,"withdrawal_min":300},{"coin":"zzz","deposit_min":30,"is_nft":0,"transfer_fee":0,"transfer_min":0,"withdrawal_fee":5,"withdrawal_min":30},{"coin":"nft","deposit_min":1,"is_nft":1,"transfer_fee":0,"transfer_min":1,"withdrawal_fee":0.002,"withdrawal_min":1},{"coin":"blindbox","deposit_min":1,"is_nft":1,"transfer_fee":0,"transfer_min":1,"withdrawal_fee":0.008,"withdrawal_min":1},{"coin":"starlightedition","deposit_min":1,"is_nft":1,"transfer_fee":0,"transfer_min":1,"withdrawal_fee":0.002,"withdrawal_min":1},{"coin":"eth","deposit_min":0.005,"is_nft":0,"transfer_fee":0,"transfer_min":0,"withdrawal_fee":0.002,"withdrawal_min":0.01},{"coin":"bnb","deposit_min":0.005,"is_nft":0,"transfer_fee":0,"transfer_min":0,"withdrawal_fee":0.002,"withdrawal_min":0.01}],"eth_address":[{"address":"0x36d52D8E8814a2B42fD7308173A553bde05b6922","chain":"eth","name":"ERC20"},{"address":"0x36d52D8E8814a2B42fD7308173A553bde05b6922","chain":"arbitrum","name":"Arbitrum"}],"nft_address":[{"address":"0x36d52D8E8814a2B42fD7308173A553bde05b6922","chain":"arbitrum","name":"ERC721"},{"address":"0x36d52D8E8814a2B42fD7308173A553bde05b6922","chain":"eth","name":"ERC721"}],"ngt_address":[{"address":"0x36d52D8E8814a2B42fD7308173A553bde05b6922","chain":"arbitrum","name":"Arbitrum"}],"og_address":[],"sec_blind_box_address":[],"zzz_address":[{"address":"0x36d52D8E8814a2B42fD7308173A553bde05b6922","chain":"arbitrum","name":"Arbitrum"}]},"ret":0,"time":1682483696} 
+mins=> 1682483696
+
+Response KeyUrl= /nft_module_market_api/config 
+json=> {"data":{"fee_rate":5,"nft_type_list":[10,20,30,40,50,60,70,80,90],"price_type":1,"quality_limit":10,"quality_limit_name":"Common","sale_duration":2592000,"waiting_second":3600},"ret":0,"time":1682483696} 
+mins=> 1682483696
+
+Response KeyUrl= /nft_market_api/config 
+json=> {"data":{"durability_rate_limit":100,"fee_rate":5,"nft_type_list":[0],"price_type":12,"quality_limit":10,"quality_limit_name":"Common","sale_duration":2592000,"waiting_second":3600,"wear_degree_limit":1},"ret":0,"time":1682483699} 
+mins=> 1682483699
+
+Response KeyUrl= /sleep_nft/nft_level_function 
+json=> {"data":[{"ID":10,"desc":"Mint","fuc":2,"lv":1},{"ID":20,"desc":"Leap","fuc":3,"lv":10}],"ret":0,"time":1682483697} 
+mins=> 1682483697
+
+Response KeyUrl= /sleep_rank_api/rank_config 
+json=> {"data":{"comment":[{"key":1,"name":"這個房間很漂亮!"},{"key":2,"name":"我想要一個這樣的 NFT。"},{"key":3,"name":"非常好！"},{"key":4,"name":"太誇張了！"}],"like":{"key":1,"name":"点赞"}},"ret":0,"time":1682483700} 
+mins=> 1682483700
+
+Response KeyUrl= /sleep_nft/get_sleep_target 
+json=> {"data":{"end_time":1682546400,"is_target":false,"set_goals_cycle":3,"start_time":1682517600},"ret":0,"time":1682483701} 
+mins=> 1682483701
+
+Response KeyUrl= /sleep_nft/sleep_expected_reward 
+json=> {"data":{"expected_reward":{"duration":28800,"reward_n":324777,"reward_s":0},"max_expected_reward":{"duration":36000,"reward_n":756378,"reward_s":0},"mismatch":true},"ret":0,"time":1682483701} 
+mins=> 1682483701
+
+Response KeyUrl= /sleep_nft/get_output_zzz 
+json=> {"data":{"reward_old_info":{"reward_old":0,"reward_old_list":[]},"sleep_reward":{"reward_s":0,"reward_second":0}},"ret":0,"time":1682483701} 
+mins=> 1682483701
+
+Response KeyUrl= /user_api/get_user_info 
+json=> {"data":{"Discord_addr":"https://discord.gg/gosleep","Twitter_addr":"https://twitter.com/gosleep01?s=20&t=aY050T62pOnV_Qxoh2HyEg","account_status":0,"account_type":60,"area_code":"CN","avatar":"6","bnb":0,"bonus":0,"deputy_chain_coin":0,"email":"alonzorecinos974@gmail.com","gender":1,"gold":0,"gold_deposit":0,"gold_withdraw":0,"invitation_code":"E82M3V","lv_info":{"ex":0,"lv":1,"mul":1,"next_ex":50},"mainNetCoin":0,"nft_sleep_count":1,"nick":"Player","ntoken":81514,"official_website_addr":"https://gosleep.pro/index","season_id":74,"signature":"","sleep_time":303120,"stoken":0,"ticket":81514,"uid":600078541,"wallet_addr":null,"withdraw_times":0},"ret":0,"time":1682483701} 
+mins=> 1682483701
+
+Response KeyUrl= /sleep_nft/config_info 
+json=> {"data":{"chain_config":{"chain_id":421613,"http_provider":"https://sleek-delicate-meadow.arbitrum-goerli.quiknode.pro/97afd7443a7cd7334210b73cd6d3ee756dd9c212/","main_net_coin_addr":"0x9F82E9493704C9f4AAecB6552189C96d10E64515","ntoken_addr":"0xb3cd23a65bc06745990aE1A3629b2ADe1b03E6A2","platform_addr":"1b59f267e97605bffc5a55bc01cde428eff5329f0b2d71941f773b94c5d26915","sleep_nft_addr":"","stoken_addr":"0x9ed803C59339E6f7C7837311933AC764d7C3157c"},"deputy_chain_config":{"blind_box_addr":"","chain_id":5,"http_provider":"https://solitary-boldest-county.ethereum-goerli.quiknode.pro/deff67808523c35e8062ff2f18de75e8612dd696/","main_net_coin_addr":"0x6566cbDFe3E6a8cB0f06E5f81b9BF9368A7aDe4b","platform_addr":"1b59f267e97605bffc5a55bc01cde428eff5329f0b2d71941f773b94c5d26915"},"deputy_chain_id":5,"gas_limit":{"main_coin":62682,"nft":149013,"ntoken":56891,"stoken":56891},"hit_tips":[{"content":"NFT有4個品質，從高到低為：Myth (Unique)、Epic、Rare 和 Common (Gift)。\n品質越高，NFT屬性越高。可通過Leap提升NFT品質。","title":"品質","type":0},{"content":"每次獲得睡眠獎勵都會消耗耐久度，當耐久度為0時，你不會獲得任何收益。\n你的 NFT 耐久度可以用 NGT 修復；修復的次數越多，修復使用的 NGT 就越多。","title":"耐久","type":1},{"content":"NFT等級最大為30級，等級越高，屬性越高。\n升級需要消耗NGT，特殊等級需要消耗NGT和ZZZ。","title":"等級","type":2},{"content":"mint","title":"mint","type":3},{"content":"效率影響NGT的產出，效率值越高，NGT產出越高。","title":"效率","type":4},{"content":"舒適影響ZZZ的產出，舒適值越高，ZZZ產出越高。","title":"舒適","type":5},{"content":"當前只有Unique品質NFT才有座標屬性。\n座標將在未來的社交玩法中產生作用。","title":"座標","type":6},{"content":"模組有4個品質，從高到低為：Myth 、Epic、Rare 和 Common。\n模組品質無法提升","title":"品質","type":7},{"content":"模組最大等級為10級。等級越高，屬性越高。","title":"等級","type":8},{"content":"模組裝備後會增加睡眠獎勵。\n所有裝備的模組的屬性會疊加計算。","title":"增幅","type":9},{"content":"模組對應多個部位，每個部位只能同時裝備一個模組。","title":"部位","type":10},{"content":"1.睡眠積分排行，統計賽季內每個用戶的睡眠積分進行排名。\n2.每個賽季首次達到100和50名時，可以獲得達標獎勵。\n3.賽季結束後，將按照排名發放排名獎勵和達標獎勵。","title":"睡眠排行","type":11},{"content":"1.睡眠獎勵積分排行，統計賽季內每個用戶的睡眠獎勵積分進行排名。\n2.獲得1個NGT獲得1積分，獲得1個ZZZ獲得100積分。\n3.賽季結束後，將按照排名發放排名獎勵和達標獎勵。","title":"收入排行","type":12},{"content":"1.人氣值排行，統計賽季內每個用戶的人氣值進行排名。\n2.每增加1次喜歡，獲得1點人氣值，每增加1條評論，獲得3點人氣值。每位用戶每天可以喜歡3次，評論3次。\n3.賽季結束後，將按照排名發放排名獎勵和達標獎勵。","title":"人氣排行","type":13},{"content":"1.排行榜前20名將獲得排名獎勵；\n2.前三名獎勵ZZZ，第4-20名獎勵NGT；\n3.排名越高，獎勵越多。","title":"排名獎勵","type":14},{"content":"1.當用戶達到100、50名時，將獲得達標獎勵；\n2.達標獎勵每賽季只發放一次；\n3.獎勵將于賽季結束後發放。","title":"達標獎勵","type":15},{"content":"1.ZZZ每天18:00解鎖。\n2.當天伺服器總睡眠時間越長，解鎖的ZZZ越多。\n3.個人獎勵按個人獎勵占整體獎勵的比例確定。","title":"ZZZ產出規則","type":16},{"content":"1.NFT初始磨損值為0，使用NFT後會提升其磨損程度。\n2.磨損度達到100時，NFT將無法使用。","title":"磨損","type":17},{"content":"1.選擇模組搭建自己的房間（NFT）\n2.鎖定模組必定出現在新房間內\n3.鎖定模組會增加建設成本\n4.分數越高，出現高品質新房間的可能性越大","title":"創建房間","type":18},{"content":"1.將邀請碼分享給朋友，邀請他們一起Sleep To Earn\n2.系統會統計填寫了你的邀請碼的人數（分母）以及有效邀請人數（分子）\n3.有效邀請是指被邀請者提交過睡眠資料的使用者\n4.有效邀請數量≥3時，可解鎖提現功能（持有非係統贈送 NFT也可解鎖）","title":"邀請","type":19},{"content":"1.被邀請的玩家獲得睡眠獎勵時，邀請者可以獲得返利\n2.只有持有非係統贈送 NFT的被邀請者產生的睡眠獎勵才會產生返利\n3.返利獎勵每日18點結算，隨時領取","title":"邀請返利","type":20}],"main_chain_id":421613,"module_growth_coefficient":10000,"multi_chain_config":[{"chain_id":5,"http_provider":"https://solitary-boldest-county.ethereum-goerli.quiknode.pro/deff67808523c35e8062ff2f18de75e8612dd696/","main_net_coin_addr":"0x6566cbDFe3E6a8cB0f06E5f81b9BF9368A7aDe4b","nft_info":[{"address":"","name":"OG","token_id_max":99999,"token_id_min":1,"withdraw_gas_limit":500000}],"ntoken_addr":"","og_pledge_addr":"","sec_pledge_addr":"","stoken_addr":""},{"chain_id":421613,"http_provider":"https://sleek-delicate-meadow.arbitrum-goerli.quiknode.pro/97afd7443a7cd7334210b73cd6d3ee756dd9c212/","main_net_coin_addr":"0x9F82E9493704C9f4AAecB6552189C96d10E64515","nft_info":[{"address":"","name":"SecBlindBox","token_id_max":999999,"token_id_min":100000,"withdraw_gas_limit":500000},{"address":"","name":"SleepNFT","token_id_max":100000000,"token_id_min":1000000,"withdraw_gas_limit":500000}],"ntoken_addr":"0xb3cd23a65bc06745990aE1A3629b2ADe1b03E6A2","og_pledge_addr":"","sec_pledge_addr":"","stoken_addr":"0x9ed803C59339E6f7C7837311933AC764d7C3157c"}],"part_quality_list":[{"name":"Common","quality":10},{"name":"Rare","quality":20},{"name":"Epic","quality":30},{"name":"Myth","quality":40}],"quality_list":[{"name":"Common","quality":10},{"name":"Rare","quality":20},{"name":"Epic","quality":30},{"name":"Myth","quality":40}],"static_prefix":"https://d2rvbddm8ool41.cloudfront.net/","wallet_addr_lifted_day":7.0,"website_addr":"https://gosleep.pro/index"},"ret":0,"time":1682483700} 
+mins=> 1682483700
+
+Response KeyUrl= /sleep_rank_api/get_last_season 
+json=> {"data":[],"ret":0,"time":1682483703} 
+mins=> 1682483703
+
+Response KeyUrl= /user_behavior_api/add_info 
+json=> {"data":"","ret":0,"time":1682483703} 
+mins=> 1682483703
+
+Response KeyUrl= /nft_module_api/nft_used_info 
+json=> {"data":{"used_module_list":[],"used_nft":{"chain":"arbitrum","comfort_base":100,"comfort_growth":"0.55","comfort_num":55,"coordinate":"","db_id":83813,"durability":104,"earn_state_switch_time":0,"efficiency_base":100,"image":"sleep_nft_image/grace/out/image/discover/2.c.png","level":1,"loss":0,"luck":54,"luck_base":100,"luck_growth":"0.54","max_attribute":{"comfort_num":100,"luck":100,"max_durable":120,"max_level":30,"max_loss":0,"max_mint_times":0,"max_quality":40,"max_quality_name":"Myth","n_output_max":3601800.0000000005,"new_max_durability":120,"productivity":100,"s_output_max":99000.00000000001},"module_image":[{"module_token_type":10,"url":"sleep_nft_image/grace/res/1_wall/2-1.png"},{"module_token_type":50,"url":"sleep_nft_image/grace/res/5_bed/2.png"},{"module_token_type":60,"url":"sleep_nft_image/grace/res/6_pillow/2.png"},{"module_token_type":70,"url":"sleep_nft_image/grace/res/7_bedside_table/2.png"},{"module_token_type":90,"url":"sleep_nft_image/grace/res/9_table/2.png"}],"n_output":1933200.0000000002,"new_durability":104,"next_level_attribute":{"comfort_num":0,"luck":0,"n_output_next":48600.0,"productivity":0,"s_output_next":0.0},"next_level_function":[],"next_quality_function":[],"next_quality_name":"Rare","page_image":"sleep_nft_image/grace/out/image/cover/2.c.png","prev_quality_name":"Common","productivity":54,"productivity_growth":"0.54","quality":10,"quality_name":"Common","s_output":0.0,"source":106,"source_type":3,"spawn_times":0,"special_skill":10,"state":20,"token_id":1078327,"token_type":0,"wear_degree":"0.00"}},"ret":0,"time":1682483702} 
+mins=> 1682483702
+
+Response KeyUrl= /sleep_nft/new_sleep_reward 
+json=> {"data":{"is_received":false,"reward_list":[],"reward_n":0,"reward_s":0,"uid":600078541},"ret":0,"time":1682483703} 
+mins=> 1682483703
+
+Response KeyUrl= /sleep_nft/new_sleep_reward 
+json=> {"data": "請求頻率限制", "ret": 5, "time": 1682483703} 
+mins=> 1682483703
+
+Response KeyUrl= /sleep_nft/sleep_raw_data 
+json=> {"data":[],"ret":0,"time":1682483698} 
+mins=> 1682483698
+
+Response KeyUrl= /app_version_update_api/app_update 
+json=> {"data":{"download_addr":"https://d2rvbddm8ool41.cloudfront.net/apk/gosleep.apk","force_update":2,"last_new_version":"2.0.2","release_type":3,"update_explain":"Fixed known bugs."},"ret":0,"time":1682483696} 
+mins=> 1682483696

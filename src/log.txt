@@ -1,0 +1,6 @@
+StringLib.b is called: apVar=({"user_time":"1686339551","appid":"19592","key":"hhh","api_time":"1686339551","check":"4811a76808f000f2e2cdc407f24e1138","imei":"a79c787e172bfb20b41ea07f088dcc771678641018","msg":"[WIG]卡密不存在(19592)","code":"10002"},code), z=true
+ReferenceError: 'showStacks' is not defined
+    at <anonymous> (/test.js:37)
+    at apply (native)
+    at ne (frida/node_modules/frida-java-bridge/lib/class-factory.js:613)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/class-factory.js:592)

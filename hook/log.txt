@@ -1,0 +1,3827 @@
+open is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+open is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+unlinkat is call
+fstatat64 is call
+unlinkat is call
+fstatat64 is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+fstatat64 is call
+fstatat64 is call
+unlinkat is call
+fstatat64 is call
+unlinkat is call
+fstatat64 is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+faccessat is call
+faccessat is call
+mkdirat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+mkdirat is call
+mkdirat is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+mkdirat is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+open is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+open is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+fopen is call
+open is call
+fstatat64 is call
+fopen is call
+open is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+open is call
+open is call
+open is call
+open is call
+open is call
+faccessat is call
+open is call
+open is call
+faccessat is call
+open is call
+open is call
+faccessat is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fstatat64 is call
+faccessat is call
+open is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+open is call
+open is call
+fstatat64 is call
+open is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+open is call
+faccessat is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+mkdirat is call
+open is call
+open is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+open is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+faccessat is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+faccessat is call
+open is call
+fstatat64 is call
+utimensat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+renameat is call
+open is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+faccessat is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+open is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+unlinkat is call
+faccessat is call
+faccessat is call
+renameat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+unlinkat is call
+faccessat is call
+faccessat is call
+open is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+renameat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+open is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+unlinkat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+open is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+open is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+unlinkat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fstatat64 is call
+open is call
+faccessat is call
+open is call
+open is call
+open is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fopen is call
+open is call
+faccessat is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+open is call
+faccessat is call
+fopen is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+fstatat64 is call
+open is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+unlinkat is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+renameat is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+open is call
+open is call
+open is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+fopen is call
+open is call
+open is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+unlinkat is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+open is call
+renameat is call
+fstatat64 is call
+unlinkat is call
+fstatat64 is call
+fstatat64 is call
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+unlinkat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+renameat is call
+open is call
+faccessat is call
+open is call
+open is call
+open is call
+faccessat is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+unlinkat is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+renameat is call
+open is call
+fstatat64 is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e6387c7c libunity.so!0x2e2c7c
+0x73e645ef10 libunity.so!0x3b9f10
+0x73e645fa74 libunity.so!0x3baa74
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/unity_app_guid
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+open is call
+readlinkat is call
+open is call
+faccessat is call
+open is call
+fopen is call
+open is call
+readlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+open is call
+unlinkat is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e6387c7c libunity.so!0x2e2c7c
+0x73e6666e10 libunity.so!0x5c1e10
+0x73e6270ae8 libunity.so!0x1cbae8
+0x73e6307d7c libunity.so!0x262d7c
+0x73e63124dc libunity.so!0x26d4dc
+0x73e645fee8 libunity.so!0x3baee8
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/RuntimeInitializeOnLoads.json
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e6387c7c libunity.so!0x2e2c7c
+0x73e6666ec4 libunity.so!0x5c1ec4
+0x73e6270ae8 libunity.so!0x1cbae8
+0x73e6307d7c libunity.so!0x262d7c
+0x73e63124dc libunity.so!0x26d4dc
+0x73e645fee8 libunity.so!0x3baee8
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/ScriptingAssemblies.json
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e6312578 libunity.so!0x26d578
+0x73e645fee8 libunity.so!0x3baee8
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e62448c8 libunity.so!0x19f8c8
+0x73e6244790 libunity.so!0x19f790
+0x73e63125cc libunity.so!0x26d5cc
+0x73e645fee8 libunity.so!0x3baee8
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.resG
+fstatat64 is call
+faccessat is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e62448c8 libunity.so!0x19f8c8
+0x73e6244790 libunity.so!0x19f790
+0x73e63125cc libunity.so!0x26d5cc
+0x73e645fee8 libunity.so!0x3baee8
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e62448c8 libunity.so!0x19f8c8
+0x73e6244790 libunity.so!0x19f790
+0x73e63125cc libunity.so!0x26d5cc
+0x73e645fee8 libunity.so!0x3baee8
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e62448c8 libunity.so!0x19f8c8
+0x73e6244790 libunity.so!0x19f790
+0x73e63125cc libunity.so!0x26d5cc
+0x73e645fee8 libunity.so!0x3baee8
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e62448c8 libunity.so!0x19f8c8
+0x73e6244790 libunity.so!0x19f790
+0x73e63125cc libunity.so!0x26d5cc
+0x73e645fee8 libunity.so!0x3baee8
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e62448c8 libunity.so!0x19f8c8
+0x73e6244790 libunity.so!0x19f790
+0x73e63125cc libunity.so!0x26d5cc
+0x73e645fee8 libunity.so!0x3baee8
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e632b198 libunity.so!0x286198
+0x73e64345a8 libunity.so!0x38f5a8
+0x73e6434270 libunity.so!0x38f270
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e62448c8 libunity.so!0x19f8c8
+0x73e6244790 libunity.so!0x19f790
+0x73e63125cc libunity.so!0x26d5cc
+0x73e645fee8 libunity.so!0x3baee8
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+renameat is call
+fstatat64 is call
+unlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e631553c libunity.so!0x27053c
+0x73e68f1b84 libunity.so!0x84cb84
+0x73e6307f14 libunity.so!0x262f14
+0x73e63126fc libunity.so!0x26d6fc
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/unity default resources.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e631553c libunity.so!0x27053c
+0x73e68f1b84 libunity.so!0x84cb84
+0x73e6307f14 libunity.so!0x262f14
+0x73e63126fc libunity.so!0x26d6fc
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/unity default resources.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e631553c libunity.so!0x27053c
+0x73e68f1b84 libunity.so!0x84cb84
+0x73e6307f14 libunity.so!0x262f14
+0x73e63126fc libunity.so!0x26d6fc
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/unity default resources.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e631553c libunity.so!0x27053c
+0x73e68f1b84 libunity.so!0x84cb84
+0x73e6307f14 libunity.so!0x262f14
+0x73e63126fc libunity.so!0x26d6fc
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/unity default resources.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e631553c libunity.so!0x27053c
+0x73e68f1b84 libunity.so!0x84cb84
+0x73e6307f14 libunity.so!0x262f14
+0x73e63126fc libunity.so!0x26d6fc
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/unity default resources.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e631553c libunity.so!0x27053c
+0x73e68f1b84 libunity.so!0x84cb84
+0x73e6307f14 libunity.so!0x262f14
+0x73e63126fc libunity.so!0x26d6fc
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/unity default resources.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e632b198 libunity.so!0x286198
+0x73e64345a8 libunity.so!0x38f5a8
+0x73e6434270 libunity.so!0x38f270
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e631553c libunity.so!0x27053c
+0x73e68f1b84 libunity.so!0x84cb84
+0x73e6307f14 libunity.so!0x262f14
+0x73e63126fc libunity.so!0x26d6fc
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/unity default resources
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e6244a5c libunity.so!0x19fa5c
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.assets.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e6244a5c libunity.so!0x19fa5c
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.assets.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e6244a5c libunity.so!0x19fa5c
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.assets.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e6244a5c libunity.so!0x19fa5c
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.assets.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e6244a5c libunity.so!0x19fa5c
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.assets.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e6244a5c libunity.so!0x19fa5c
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.assets.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e632b198 libunity.so!0x286198
+0x73e64345a8 libunity.so!0x38f5a8
+0x73e6434270 libunity.so!0x38f270
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e6244a5c libunity.so!0x19fa5c
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.assets
+open is call
+fopen is call
+TypeError: cannot read property 'context' of undefined
+    at log (/IORelocator.js:3)
+    at onEnter (/IORelocator.js:35)
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+fopen is call
+open is call
+TypeError: cannot read property 'context' of undefined
+    at log (/IORelocator.js:3)
+    at onEnter (/IORelocator.js:35)
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e632b198 libunity.so!0x286198
+0x73e6433aa8 libunity.so!0x38eaa8
+0x73e6433764 libunity.so!0x38e764
+0x73e6433bc8 libunity.so!0x38ebc8
+0x73e6244b10 libunity.so!0x19fb10
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+0x73e6460c0c libunity.so!0x3bbc0c
+0x73e64776ec libunity.so!0x3d26ec
+0x742186d5a0 base.odex!0x9d5a0
+0x742186d5a0 base.odex!0x9d5a0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/globalgamemanagers.assets
+open is call
+fopen is call
+TypeError: cannot read property 'context' of undefined
+    at log (/IORelocator.js:3)
+    at onEnter (/IORelocator.js:35)
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+fopen is call
+TypeError: cannot read property 'context' of undefined
+    at log (/IORelocator.js:3)
+    at onEnter (/IORelocator.js:35)
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e633b7e0 libunity.so!0x2967e0
+0x73e642f7fc libunity.so!0x38a7fc
+0x73e642f628 libunity.so!0x38a628
+0x73e6431bec libunity.so!0x38cbec
+0x73e6433bd4 libunity.so!0x38ebd4
+0x73e6244b10 libunity.so!0x19fb10
+0x73e631278c libunity.so!0x26d78c
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/Resources/unity_builtin_extra.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e633b7e0 libunity.so!0x2967e0
+0x73e642f7fc libunity.so!0x38a7fc
+0x73e642f628 libunity.so!0x38a628
+0x73e6431bec libunity.so!0x38cbec
+0x73e6433bd4 libunity.so!0x38ebd4
+0x73e6244b10 libunity.so!0x19fb10
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/Resources/unity_builtin_extra.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e633b7e0 libunity.so!0x2967e0
+0x73e642f7fc libunity.so!0x38a7fc
+0x73e642f628 libunity.so!0x38a628
+0x73e6431bec libunity.so!0x38cbec
+0x73e6433bd4 libunity.so!0x38ebd4
+0x73e6244b10 libunity.so!0x19fb10
+0x73e631278c libunity.so!0x26d78c
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/Resources/unity_builtin_extra.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e633b7e0 libunity.so!0x2967e0
+0x73e642f7fc libunity.so!0x38a7fc
+0x73e642f628 libunity.so!0x38a628
+0x73e6431bec libunity.so!0x38cbec
+0x73e6433bd4 libunity.so!0x38ebd4
+0x73e6244b10 libunity.so!0x19fb10
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/Resources/unity_builtin_extra.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e633b7e0 libunity.so!0x2967e0
+0x73e642f7fc libunity.so!0x38a7fc
+0x73e642f628 libunity.so!0x38a628
+0x73e6431bec libunity.so!0x38cbec
+0x73e6433bd4 libunity.so!0x38ebd4
+0x73e6244b10 libunity.so!0x19fb10
+0x73e631278c libunity.so!0x26d78c
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/Resources/unity_builtin_extra.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e633b7e0 libunity.so!0x2967e0
+0x73e642f7fc libunity.so!0x38a7fc
+0x73e642f628 libunity.so!0x38a628
+0x73e6431bec libunity.so!0x38cbec
+0x73e6433bd4 libunity.so!0x38ebd4
+0x73e6244b10 libunity.so!0x19fb10
+0x73e631278c libunity.so!0x26d78c
+0x73e645fff4 libunity.so!0x3baff4
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/Resources/unity_builtin_extra.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e632b198 libunity.so!0x286198
+0x73e64345a8 libunity.so!0x38f5a8
+0x73e6434270 libunity.so!0x38f270
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e633b7e0 libunity.so!0x2967e0
+0x73e642f7fc libunity.so!0x38a7fc
+0x73e642f628 libunity.so!0x38a628
+0x73e6431bec libunity.so!0x38cbec
+0x73e6433bd4 libunity.so!0x38ebd4
+0x73e6244b10 libunity.so!0x19fb10
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/Resources/unity_builtin_extra
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+__getcwd is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+__getcwd is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e631c3c0 libunity.so!0x2773c0
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/sharedassets0.assets.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e631c3c0 libunity.so!0x2773c0
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/sharedassets0.assets.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e631c3c0 libunity.so!0x2773c0
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/sharedassets0.assets.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e631c3c0 libunity.so!0x2773c0
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/sharedassets0.assets.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e631c3c0 libunity.so!0x2773c0
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/sharedassets0.assets.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e631c3c0 libunity.so!0x2773c0
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/sharedassets0.assets.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e632b198 libunity.so!0x286198
+0x73e64345a8 libunity.so!0x38f5a8
+0x73e6434270 libunity.so!0x38f270
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e631c3c0 libunity.so!0x2773c0
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/sharedassets0.assets
+open is call
+TypeError: cannot read property 'context' of undefined
+    at log (/IORelocator.js:3)
+    at onEnter (/IORelocator.js:35)
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+fopen is call
+TypeError: cannot read property 'context' of undefined
+    at log (/IORelocator.js:3)
+    at onEnter (/IORelocator.js:35)
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e6463f84 libunity.so!0x3bef84
+0x73e6463f84 libunity.so!0x3bef84
+0x73e64652a0 libunity.so!0x3c02a0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.resG.split0
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e6463f84 libunity.so!0x3bef84
+0x73e6463f84 libunity.so!0x3bef84
+0x73e64652a0 libunity.so!0x3c02a0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.res.split0
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e6463f84 libunity.so!0x3bef84
+0x73e6463f84 libunity.so!0x3bef84
+0x73e64652a0 libunity.so!0x3c02a0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.resS.split0
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e632b198 libunity.so!0x286198
+0x73e64345a8 libunity.so!0x38f5a8
+0x73e6434270 libunity.so!0x38f270
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0
+fstatat64 is call
+RegisterNatives called from:
+0x73e6463f84 libunity.so!0x3bef84
+0x73e6463f84 libunity.so!0x3bef84
+0x73e6465054 libunity.so!0x3c0054
+0x73e632b198 libunity.so!0x286198
+0x73e64345a8 libunity.so!0x38f5a8
+0x73e6434270 libunity.so!0x38f270
+0x73e6430d30 libunity.so!0x38bd30
+0x73e6430e74 libunity.so!0x38be74
+0x73e631c494 libunity.so!0x277494
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.split0
+fopen is call
+open is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e6463f84 libunity.so!0x3bef84
+0x73e6463f84 libunity.so!0x3bef84
+0x73e6464d94 libunity.so!0x3bfd94
+0x73e6396b5c libunity.so!0x2f1b5c
+0x73e6388954 libunity.so!0x2e3954
+0x73e63888f4 libunity.so!0x2e38f4
+0x73e6388a44 libunity.so!0x2e3a44
+0x73e6257dcc libunity.so!0x1b2dcc
+0x73e6257c3c libunity.so!0x1b2c3c
+0x73e632b608 libunity.so!0x286608
+0x73e632b4f4 libunity.so!0x2864f4
+0x73e632b670 libunity.so!0x286670
+0x73e632b824 libunity.so!0x286824
+0x73e6436420 libunity.so!0x391420
+0x73e6434640 libunity.so!0x38f640
+0x73e6434270 libunity.so!0x38f270
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.split0
+fopen is call
+open is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e632b198 libunity.so!0x286198
+0x73e6433aa8 libunity.so!0x38eaa8
+0x73e6433764 libunity.so!0x38e764
+0x73e631c794 libunity.so!0x277794
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/sharedassets0.assets
+open is call
+fopen is call
+open is call
+TypeError: cannot read property 'context' of undefined
+    at log (/IORelocator.js:3)
+    at onEnter (/IORelocator.js:35)
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+fopen is call
+open is call
+fopen is call
+TypeError: cannot read property 'context' of undefined
+    at log (/IORelocator.js:3)
+    at onEnter (/IORelocator.js:35)
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e632b198 libunity.so!0x286198
+0x73e6433aa8 libunity.so!0x38eaa8
+0x73e6433764 libunity.so!0x38e764
+0x73e631c89c libunity.so!0x27789c
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0
+fstatat64 is call
+RegisterNatives called from:
+0x73e6463f84 libunity.so!0x3bef84
+0x73e6463f84 libunity.so!0x3bef84
+0x73e6465054 libunity.so!0x3c0054
+0x73e632b198 libunity.so!0x286198
+0x73e6433aa8 libunity.so!0x38eaa8
+0x73e6433764 libunity.so!0x38e764
+0x73e631c89c libunity.so!0x27789c
+0x73e631e4f0 libunity.so!0x2794f0
+0x73e631e32c libunity.so!0x27932c
+0x73e631e2a8 libunity.so!0x2792a8
+0x73e63a6360 libunity.so!0x301360
+0x75119c70a4 libc.so!_ZL15__pthread_startPv+0x28
+0x7511969ab4 libc.so!__start_thread+0x44
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/level0.split0
+fopen is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+open is call
+fstatat64 is call
+open is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+renameat is call
+open is call
+fstatat64 is call
+unlinkat is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e63c13d8 libunity.so!0x31c3d8
+0x73e61b218c libunity.so!0x10d18c
+0x73ce096584 libil2cpp.so!0x4a7c584
+0x73cc1cd700 libil2cpp.so!0x2bb3700
+0x73cbf15f38 libil2cpp.so!0x28fbf38
+0x73ca6d09c0 libil2cpp.so!0x10b69c0
+0x73ca6d0834 libil2cpp.so!0x10b6834
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/1009328d83fa149178b1cf38629781da.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e63c13d8 libunity.so!0x31c3d8
+0x73e61b218c libunity.so!0x10d18c
+0x73ce096584 libil2cpp.so!0x4a7c584
+0x73cc1cd700 libil2cpp.so!0x2bb3700
+0x73cbf15f38 libil2cpp.so!0x28fbf38
+0x73ca6d09c0 libil2cpp.so!0x10b69c0
+0x73ca6d0834 libil2cpp.so!0x10b6834
+0x73e63d8868 libunity.so!0x333868
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/1009328d83fa149178b1cf38629781da.resG
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e63c13d8 libunity.so!0x31c3d8
+0x73e61b218c libunity.so!0x10d18c
+0x73ce096584 libil2cpp.so!0x4a7c584
+0x73cc1cd700 libil2cpp.so!0x2bb3700
+0x73cbf15f38 libil2cpp.so!0x28fbf38
+0x73ca6d09c0 libil2cpp.so!0x10b69c0
+0x73ca6d0834 libil2cpp.so!0x10b6834
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/1009328d83fa149178b1cf38629781da.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e63c13d8 libunity.so!0x31c3d8
+0x73e61b218c libunity.so!0x10d18c
+0x73ce096584 libil2cpp.so!0x4a7c584
+0x73cc1cd700 libil2cpp.so!0x2bb3700
+0x73cbf15f38 libil2cpp.so!0x28fbf38
+0x73ca6d09c0 libil2cpp.so!0x10b69c0
+0x73ca6d0834 libil2cpp.so!0x10b6834
+0x73e63d8868 libunity.so!0x333868
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/1009328d83fa149178b1cf38629781da.res
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6464eb0 libunity.so!0x3bfeb0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e63c13d8 libunity.so!0x31c3d8
+0x73e61b218c libunity.so!0x10d18c
+0x73ce096584 libil2cpp.so!0x4a7c584
+0x73cc1cd700 libil2cpp.so!0x2bb3700
+0x73cbf15f38 libil2cpp.so!0x28fbf38
+0x73ca6d09c0 libil2cpp.so!0x10b69c0
+0x73ca6d0834 libil2cpp.so!0x10b6834
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/1009328d83fa149178b1cf38629781da.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e64652e0 libunity.so!0x3c02e0
+0x73e6387740 libunity.so!0x2e2740
+0x73e64341e4 libunity.so!0x38f1e4
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e63c13d8 libunity.so!0x31c3d8
+0x73e61b218c libunity.so!0x10d18c
+0x73ce096584 libil2cpp.so!0x4a7c584
+0x73cc1cd700 libil2cpp.so!0x2bb3700
+0x73cbf15f38 libil2cpp.so!0x28fbf38
+0x73ca6d09c0 libil2cpp.so!0x10b69c0
+0x73ca6d0834 libil2cpp.so!0x10b6834
+0x73e63d8868 libunity.so!0x333868
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/1009328d83fa149178b1cf38629781da.resS
+fstatat64 is call
+RegisterNatives called from:
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e63923d0 libunity.so!0x2ed3d0
+0x73e6465048 libunity.so!0x3c0048
+0x73e632b198 libunity.so!0x286198
+0x73e64345a8 libunity.so!0x38f5a8
+0x73e6434270 libunity.so!0x38f270
+0x73e6432168 libunity.so!0x38d168
+0x73e643326c libunity.so!0x38e26c
+0x73e6432b54 libunity.so!0x38db54
+0x73e6432a14 libunity.so!0x38da14
+0x73e63c13d8 libunity.so!0x31c3d8
+0x73e61b218c libunity.so!0x10d18c
+0x73ce096584 libil2cpp.so!0x4a7c584
+0x73cc1cd700 libil2cpp.so!0x2bb3700
+0x73cbf15f38 libil2cpp.so!0x28fbf38
+0x73ca6d09c0 libil2cpp.so!0x10b69c0
+
+path result-> /data/app/com.relax.tiles.match-Y_31pHvM6YgiC4kqYyQWQw==/base.apk/assets/bin/Data/1009328d83fa149178b1cf38629781da
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+open is call
+open is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+faccessat is call
+open is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+open is call
+faccessat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+open is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+renameat is call
+open is call
+fstatat64 is call
+unlinkat is call
+faccessat is call
+faccessat is call
+renameat is call
+open is call
+faccessat is call
+fstatat64 is call
+fopen is call
+open is call
+unlinkat is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+faccessat is call
+faccessat is call
+faccessat is call
+mkdirat is call
+faccessat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+readlinkat is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+renameat is call
+faccessat is call
+open is call
+fopen is call
+open is call
+fopen is call
+open is call
+faccessat is call
+fopen is call
+open is call
+fstatat64 is call
+unlinkat is call
+faccessat is call
+faccessat is call
+renameat is call
+open is call
+fstatat64 is call
+unlinkat is call
+fstatat64 is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+faccessat is call
+open is call
+open is call
+fstatat64 is call
+open is call
+faccessat is call
+fstatat64 is call
+open is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+fstatat64 is call
+faccessat is call
+faccessat is call
+renameat is call
+open is call
+fstatat64 is call
+faccessat is call
+open is call
+open is call
+open is call
+fstatat64 is call
+unlinkat is call
+faccessat is call
+faccessat is call
+renameat is call
+open is call
+fstatat64 is call
+unlinkat is call
+open is call

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/DroidSSLUnpinning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Wallbreaker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frida-dexdump" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frida_hook_libart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jnitrace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/r0capture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/r0tracer" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,133 @@
+bodina=>  0x70
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.String java.lang.String.intern()
+bodina=>  0x31
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void android.app.Activity.onCreate(android.os.Bundle)
+bodina=>  0x35
+bodina=>  0xd7
+bodina=>  0xd7
+bodina=>  0xb2
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void com.wenyu.bodian.android.mainActivity$1.<init>(com.wenyu.bodian.android.mainActivity)
+bodina=>  0xb2
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void android.view.GestureDetector.<init>(android.view.GestureDetector$OnGestureListener)
+bodina=>  0x35
+bodina=>  0xb
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void com.wenyu.bodian.应用操作.initialize(com.wenyu.bodian.ApplicationFunctions)
+bodina=>  0xd7
+bodina=>  0xb2
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void com.wenyu.bodian.android.LogImpl.<init>(android.content.Context)
+bodina=>  0xb
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void com.wenyu.bodian.Log.initialize(com.wenyu.bodian.LogFunctions)
+bodina=>  0xd7
+bodina=>  0xb2
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void android.widget.LinearLayout.<init>(android.content.Context)
+bodina=>  0x35
+bodina=>  0xd7
+bodina=>  0xc0
+bodina=>  0xb2
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void android.view.ViewGroup$LayoutParams.<init>(int, int)
+bodina=>  0xd7
+bodina=>  0xb2
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void android.widget.TextView.<init>(android.content.Context)
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void android.widget.TextView.setText(java.lang.CharSequence)
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----float android.widget.TextView.getTextSize()
+bodina=>  0x32
+bodina=>  0x3b
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.Class[] java.lang.Class.getInterfaces()
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void java.lang.NoSuchFieldError.<init>(java.lang.String)
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void java.lang.NoSuchFieldError.<init>(java.lang.String)
+bodina=>  0x6f
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void android.view.ViewGroup.addView(android.view.View, android.view.ViewGroup$LayoutParams)
+bodina=>  0x4
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void android.view.View.setVisibility(int)
+bodina=>  0x6f
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void android.app.Activity.setContentView(android.view.View, android.view.ViewGroup$LayoutParams)
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----android.content.pm.PackageManager android.content.ContextWrapper.getPackageManager()
+bodina=>  0xeb
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----android.content.ComponentName android.app.Activity.getComponentName()
+bodina=>  0xeb
+bodina=>  0x4
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----android.content.pm.ActivityInfo android.app.ApplicationPackageManager.getActivityInfo(android.content.ComponentName, int)
+bodina=>  0xeb
+bodina=>  0x6f
+bodina=>  0x70
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.String java.lang.String.intern()
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.String android.os.BaseBundle.getString(java.lang.String)
+bodina=>  0xeb
+bodina=>  0xde
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.Class[] java.lang.Class.getInterfaces()
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void java.lang.NoSuchFieldError.<init>(java.lang.String)
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void java.lang.NoSuchFieldError.<init>(java.lang.String)
+bodina=>  0x70
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.String java.lang.String.intern()
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----boolean android.os.BaseBundle.getBoolean(java.lang.String)
+bodina=>  0x32
+bodina=>  0xc0
+bodina=>  0xc0
+bodina=>  0x6c
+bodina=>  0x20
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.Class[] java.lang.Class.getInterfaces()
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void java.lang.NoSuchFieldError.<init>(java.lang.String)
+bodina=>  0x4
+bodina=>  0xd9
+bodina=>  0x6f
+bodina=>  0xb
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----int com.wenyu.bodian.系统相关类.取状态栏高度()
+bodina=>  0x32
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void android.view.View.setPadding(int, int, int, int)
+bodina=>  0x70
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.String java.lang.String.intern()
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----boolean android.os.BaseBundle.getBoolean(java.lang.String)
+bodina=>  0x32
+bodina=>  0x47
+bodina=>  0x82
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.ClassLoader android.content.ContextWrapper.getClassLoader()
+bodina=>  0xeb
+bodina=>  0xba
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String)
+bodina=>  0xeb
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.Object java.lang.Class.newInstance()
+bodina=>  0xeb
+bodina=>  0x89
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void com.wenyu.bodian.android.mainActivity.切换窗口(com.wenyu.bodian.components.窗口)
+bodina=>  0xba
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.Class[] java.lang.Class.getInterfaces()
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void java.lang.NoSuchFieldError.<init>(java.lang.String)
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void java.lang.NoSuchFieldError.<init>(java.lang.String)
+bodina=>  0x6a
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----android.content.Intent android.app.Activity.getIntent()
+bodina=>  0xeb
+bodina=>  0x70
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.String android.content.Intent.getStringExtra(java.lang.String)
+bodina=>  0xeb
+bodina=>  0x6a
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.String android.content.Intent.getDataString()
+bodina=>  0xeb
+bodina=>  0xba
+bodina=>  0x16
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void com.wenyu.bodian.components.impl.android.窗口Impl.程序被启动(java.lang.String)
+bodina=>  0x70
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.String java.lang.String.intern()
+bodina=>  0x70
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----java.lang.String java.lang.String.intern()
+bodina=>  0xb
+-------void com.wenyu.bodian.android.mainActivity.onCreate(android.os.Bundle)-------call-----void com.wenyu.bodian.Log.Info(java.lang.String, java.lang.String)
+bodina=>  0x95 return-viod

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hook/@Plugin/Frida-Seccomp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hook/@Plugin/OkHttpLogger-Frida" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hook/@Plugin/ZenTracer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rpc/frida-python" vcs="Git" />
+  </component>
+</project>

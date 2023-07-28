@@ -1,0 +1,323 @@
+2023-06-15 01:26:31.482 | INFO     | __main__:on_message:232 - SSL Session: 
+2023-06-15 01:26:31.483 | INFO     | __main__:on_message:233 - [SSL_write] 192.168.124.3:48640 --> 223.109.148.141:443
+2023-06-15 01:26:31.484 | INFO     | __main__:on_message:241 - POST /zcfg HTTP/1.1..X-Umeng-UTC: 1679177430723..X-Umeng-Sdk: z/1.2.0 2.8.6.13/Android/aosp_marlin-userdebug 10 QP1A.190711.020 eng.xkz.20230314.162825 test-keys/Pixel XL/10 10d1688e76889955d5d8304d5568112..Content-Type: ut/z..Msg-Type: envelope/json..X-Umeng-Pro-Ver: 1.0.0..SM-IMP: 1..User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; Pixel XL Build/QP1A.190711.020)..Host: ulogs.umeng.com..Connection: Keep-Alive..Accept-Encoding: gzip..Content-Length: 293......1.0..600913c26a2a470e8f846372.@10302a61af1df7c5322b9d8f0af57485da5e3eda37cd16bac70799211def1664............P z.).E.-......2....dl..T......#z.<.N.X.m..K.#".V.. .WQ.E=..<..Y...lOf...+E.......@0000e5612d1d52c5d62b1d8f8ef51485575e29dacecdcdba7d07a221a4ef0000. 588931ec4c4a12680687dff7a6713c46...
+2023-06-15 01:26:31.485 | INFO     | __main__:on_message:242 - None
+2023-06-15 01:26:31.520 | INFO     | __main__:on_message:232 - SSL Session: 8EE3FC078B5981778EED6A2FE2EF15A8E233D69FE1C282DD1D994BC2CC988C2B
+2023-06-15 01:26:31.521 | INFO     | __main__:on_message:233 - [SSL_read] 223.109.148.141:443 --> 192.168.124.3:48640
+2023-06-15 01:26:31.522 | INFO     | __main__:on_message:241 - HTTP/1.1 200 OK..Server: Tengine..Date: Wed, 14 Jun 2023 17:26:36 GMT..Content-Type: application/thrift..Content-Length: 138..Connection: close..................succeed................cfgfd......(1014@1602215807,105209884670,262139,1983.............. e9b2e1c085d920958d167097bf430045..
+2023-06-15 01:26:31.522 | INFO     | __main__:on_message:242 - None
+2023-06-15 01:26:32.739 | INFO     | __main__:on_message:232 - SSL Session: 
+2023-06-15 01:26:32.740 | INFO     | __main__:on_message:233 - [SSL_write] 192.168.124.3:38183 --> 223.109.148.171:443
+2023-06-15 01:26:32.741 | INFO     | __main__:on_message:241 - POST /api/postZdata HTTP/1.1..Content-Type: application/json..User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; Pixel XL Build/QP1A.190711.020)..Host: aaid.umeng.com..Connection: Keep-Alive..Accept-Encoding: gzip..Content-Length: 949....{"zdata":"AC8RC1E8MEoeHz8uXeArrXefD4hRoyu11Stes3_KXGWPjKMlM4-rPbzCYDpuDh9_ZuJ-Dz6mS60dBxasK7vTv95YVhV2GoJUscZUQdBGRt0W1K1H9trDXVOEacV94o2KqzRthntXNRvqQxYhjYPducDmaGnnBruEFAfPNOyLxPpzDk2SOv8GlR7ktZza0vPhj1Fu5wsp_USK5w66AzQT1wLMJF8TS-OxTc5E2N8f9tFvEoVFDrwl40zEs6JejANeiipEOGmOxNHYSldbdmydAin5eWCtNDHES-t0mQD7bhglHWOr47vFVjcJcjv6RZ3mk3UwVR4Q_ZpAfhyLCi_XsV8Ek0z1_M9ghvFfKvs7F32vxzLi1YuRnwnLUpPv2V4X78i5IfoY0ucp7k86hSll2byTT75veS1PQOjJgdvgCu7HwIRMEuCmpzjWwS9mr-A83bIYgCX4OVSXhKb3HrtFZrA8lg6mxua-kg==","mac":"","oaid":"","zdata_ver":"1.1.3","android_id":"77504aaf73933591","storage":20593512448,"os_version":"10","timezone":0,"model":"Pixel XL","imei":"","hostname":"ad921d6048636625889553a3db49a4a","sdk_version":"1.4.1","package_name":"com.wolf.ws.baby","sdk_type":"Android","uuid":"7e31e9b6-e4cb-4814-a676-d5f0ad37bd6b","source_id":"umeng","app_version":"2.8.6.13","app_name":"............","country":"CN","appkey":"600913c26a2a470e8f846372","gaid":""}
+2023-06-15 01:26:32.743 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLOutputStream.write(Native Method)
+	at com.android.okhttp.okio.Okio$1.write(Okio.java:78)
+	at com.android.okhttp.okio.AsyncTimeout$1.write(AsyncTimeout.java:157)
+	at com.android.okhttp.okio.RealBufferedSink.flush(RealBufferedSink.java:222)
+	at com.android.okhttp.internal.http.Http1xStream.finishRequest(Http1xStream.java:163)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:748)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:501)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:294)
+	at com.umeng.commonsdk.statistics.c.a(NetWorkManager.java:175)
+	at com.umeng.commonsdk.framework.a.r(UMNetWorkSender.java:568)
+	at com.umeng.commonsdk.framework.a.k(UMNetWorkSender.java:35)
+	at com.umeng.commonsdk.framework.a$2.handleMessage(UMNetWorkSender.java:316)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+2023-06-15 01:26:32.828 | INFO     | __main__:on_message:232 - SSL Session: 6F881E5B5BBC564B7A2524E88B3B1D578C47B181C84F04D753DBD12A698F711A
+2023-06-15 01:26:32.829 | INFO     | __main__:on_message:233 - [SSL_read] 223.109.148.171:443 --> 192.168.124.3:38183
+2023-06-15 01:26:32.831 | INFO     | __main__:on_message:241 - HTTP/1.1 200 ..Server: Tengine..Date: Wed, 14 Jun 2023 17:26:38 GMT..Content-Type: application/json;charset=UTF-8..Content-Length: 91..Connection: close..Set-Cookie: XSRF-TOKEN=360d1e37-6cbd-4487-8ec2-8a448a27987e; Path=/; HttpOnly..Access-Control-Allow-Credentials: true..Access-Control-Allow-Methods: PUT,POST,GET,DELETE,OPTIONS..Access-Control-Allow-Headers: Content-Type..X-Content-Type-Options: nosniff..X-XSS-Protection: 1; mode=block..Cache-Control: no-cache, no-store, max-age=0, must-revalidate..Pragma: no-cache..Expires: 0..X-Frame-Options: DENY....{"aaid":"E603F601-15E8-AAE8-BAB0-47C90A40ECD8","suc":true,"uabc":"{\"zts\":1686763598209}"}
+2023-06-15 01:26:32.832 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(Native Method)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:501)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:294)
+	at com.umeng.commonsdk.statistics.c.a(NetWorkManager.java:175)
+	at com.umeng.commonsdk.framework.a.r(UMNetWorkSender.java:568)
+	at com.umeng.commonsdk.framework.a.k(UMNetWorkSender.java:35)
+	at com.umeng.commonsdk.framework.a$2.handleMessage(UMNetWorkSender.java:316)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+2023-06-15 01:26:32.835 | INFO     | __main__:on_message:232 - SSL Session: 
+2023-06-15 01:26:32.836 | INFO     | __main__:on_message:233 - [SSL_write] 192.168.124.3:48642 --> 223.109.148.141:443
+2023-06-15 01:26:32.837 | INFO     | __main__:on_message:241 - POST /umpx_share HTTP/1.1..X-Umeng-UTC: 1679177432179..Msg-Type: envelope/json..Content-Type: ut/s..SM-IMP: 1..User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; Pixel XL Build/QP1A.190711.020)..Host: ulogs.umeng.com..Connection: Keep-Alive..Accept-Encoding: gzip..Content-Length: 1270......1.0..600913c26a2a470e8f846372.@10302a61af1df7c5322b9d8f0af57485da5e3eda37cd16bac70799211def1664.................^...... .\....H&$...`F3.u...;v.......7)EO...3.>..a..u.....\.4.p\bw...,W.....\.?3.x..I.)._#.F..).xo=......P..,..]y}.}..........>{......RL.m.........'.>..4.,.4.w.. ..p......'#.&....w.)yO.....Q.[(ZHF>^.W..(........!z9....Vw.A]}t...gF....2...........V.}..d9).a..{E=*......wS.%...r._./.o.}...V..f...&...E5^HnP.3...4..)..I..g.\Y...wh.(........r...)..4.cB].........Y.t...o.K.$V.....A....".0.Y...K.eJ!,$h.7.......x....B..lJ;aZ..M..D4.M..A.r_...j..X#9...........#..@1t|W.-(.y..p.n.q.U..g.....Z.ex......NL....f..o7.CPR........d.C...8.........I.Y=..l.JY.$.....A...S..K. .7.O.Nn.y,,./.D]En...}5............9.......P....k....,..|.1.......6O.e.Z..x......r...(.....|Y.<.5..B5S..'....9.......F......"...o.v.....W.......<..s..RT~..........;.......>)..h.'...cJ}0.lp6.E........)@......:|X....w.........L-.I.G.XU.......AZ.[q..^h.{...q..R1:-|.#(......{..m.)l..H.1Q@.j}g...D$.......%..V...|=l.O.6.....i[v.L..]...N......6...B..Zuc...\...[k@me^.....{.5X.Jv...R.&.b.....]8.F.5.V.V79.b.1'..K.H....=..].../v.`:....W...=..V<P...........CM......}$.RuD.a+u..u..\......f.7l....x9..k.;.@c806aa61a01bb9c5cc2db68f8ef31b854d5884dadecbe8ba5101f121d3e90000. a56ccb2ae6f6b63ba81e07c5dd624365...
+2023-06-15 01:26:32.839 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLOutputStream.write(Native Method)
+	at com.android.okhttp.okio.Okio$1.write(Okio.java:78)
+	at com.android.okhttp.okio.AsyncTimeout$1.write(AsyncTimeout.java:157)
+	at com.android.okhttp.okio.RealBufferedSink.flush(RealBufferedSink.java:222)
+	at com.android.okhttp.internal.http.Http1xStream.finishRequest(Http1xStream.java:163)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:748)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.umeng.umzid.a.a(Unknown Source:88)
+	at com.umeng.umzid.ZIDManager.a(:1)
+	at com.umeng.umzid.ZIDManager$a.run(Unknown Source:4)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:301)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+2023-06-15 01:26:32.871 | INFO     | __main__:on_message:232 - SSL Session: 00DB2051A4123375BD97E777F0BFE1C0BB3C1FB01771E33E088A44F303A35EC4
+2023-06-15 01:26:32.874 | INFO     | __main__:on_message:233 - [SSL_read] 223.109.148.141:443 --> 192.168.124.3:48642
+2023-06-15 01:26:32.874 | INFO     | __main__:on_message:241 - HTTP/1.1 200 OK..Server: Tengine..Date: Wed, 14 Jun 2023 17:26:38 GMT..Content-Type: application/thrift..Content-Length: 174..Connection: close..................succeed................jitter.......7586166.....umid......"ai0951712c7d30f552419b7729bdf4fc48.....v.......5-5-5.............. df073340a42a2a8ee4b141548e6fd6a6..
+2023-06-15 01:26:32.876 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(Native Method)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.umeng.umzid.a.a(Unknown Source:88)
+	at com.umeng.umzid.ZIDManager.a(:1)
+	at com.umeng.umzid.ZIDManager$a.run(Unknown Source:4)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:301)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+2023-06-15 01:26:33.178 | INFO     | __main__:on_message:232 - SSL Session: 
+2023-06-15 01:26:33.179 | INFO     | __main__:on_message:233 - [SSL_write] 192.168.124.3:48643 --> 223.109.148.141:443
+2023-06-15 01:26:33.180 | INFO     | __main__:on_message:241 - POST /unify_logs HTTP/1.1..X-Umeng-UTC: 1679177432562..X-Umeng-Sdk: t/9.5.0 2.8.6.13/Android/aosp_marlin-userdebug 10 QP1A.190711.020 eng.xkz.20230314.162825 test-keys/Pixel XL/10 10d1688e76889955d5d8304d5568112..Content-Type: ut/t..Msg-Type: envelope/json..X-Umeng-Pro-Ver: 1.0.0..SM-IMP: 1..User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; Pixel XL Build/QP1A.190711.020)..Host: ulogs.umeng.com..Connection: Keep-Alive..Accept-Encoding: gzip..Content-Length: 1398......1.0..600913c26a2a470e8f846372.@10302a61af1df7c5322b9d8f0af57485da5e3eda37cd16bac70799211def1664................}TD...CP.^........"..........Nr.'..wCJ...f.!G.4P.<}.....w../..i........T....f.....3U..p.J.l....}~..t c.<J......2. G..................1e.YLEZ......Hd..7..^.>.b.....|/h1/..K.....k.9.........R..L.....~.|..1|....r...,..7..K.-...!.........}`.m.M.....+z.xO...`FP.L1.I.J=.a=.....I.R._.....Y.t0....nZ...7.....+.....Ba...I..P_.~.LJ....I(..^Tp...^hc/\...d.~v..]...!p,....Q..W..v.y..:4.0......5..........NZ.I.x...@>.......<....t...K...........r.2M.$...pZ.B..e. .[VL...:...w.....1..l..Xo....T....:.bg.j.g......-.F.W1.(.C.p>.....LJ;........+.>..P..d.....6q.....%3..3kFO<...z..2T....8..XC..h....v..q..Q...#.M'.....k..2.`a.u.................e.U.f8....`.=.I...c.Y...1..U...m!.....}*{M%..}.&..)...W....../d.~N.*[..)-...n*%.>@..!vy.s.jG.=...+!`np..t7&..p.{....8~.....Z.B..t..A..V.....t.....w.a...W.6.......gL.&?.g..}Yp;H;.I......-(..D0..+..8W.*.....0J...K...I%I...N........5..........%S...6....7....@.:y_&..HVg.[{.N.....q.....y:.W-*.O..S.DijS....`!.)PLq/..$W2c|l.2.[Z.n...(.2...2......l.U..._.*.L<33<...FtWO..P:..Y=n.A.P..\I.B.Qo...+...v..z.r....e.C..ST.......W.{/.F}.4...?.}.n...C.cg(.5.M#.....*[M...^e.u......W.6...-|)A.P....?^.h.....Ih;......E.A....2).E..{.I...+..qg...g...{A..OA.!%....Q.t.<...6...@c8065961061b43c52d2d618f13f36e8572586dda1dcb89bae501a721cfe90000. f4f8a03524c512ab7cb3726d5ec2b119...
+2023-06-15 01:26:33.182 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLOutputStream.write(Native Method)
+	at com.android.okhttp.okio.Okio$1.write(Okio.java:78)
+	at com.android.okhttp.okio.AsyncTimeout$1.write(AsyncTimeout.java:157)
+	at com.android.okhttp.okio.RealBufferedSink.flush(RealBufferedSink.java:222)
+	at com.android.okhttp.internal.http.Http1xStream.finishRequest(Http1xStream.java:163)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:748)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.umeng.commonsdk.stateless.c.a(UMSLNetWorkSenderHelper.java:225)
+	at com.umeng.commonsdk.stateless.b.l(UMSLNetWorkSender.java:301)
+	at com.umeng.commonsdk.stateless.b.o(UMSLNetWorkSender.java:419)
+	at com.umeng.commonsdk.stateless.b.g(UMSLNetWorkSender.java:36)
+	at com.umeng.commonsdk.stateless.b$2.handleMessage(UMSLNetWorkSender.java:155)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+2023-06-15 01:26:33.299 | INFO     | __main__:on_message:232 - SSL Session: F75251A91226423243B9B37F80DADEB6D0FABFB03B0E06F9AF3F73FDC7E64DA1
+2023-06-15 01:26:33.301 | INFO     | __main__:on_message:233 - [SSL_read] 223.109.148.141:443 --> 192.168.124.3:48643
+2023-06-15 01:26:33.301 | INFO     | __main__:on_message:241 - HTTP/1.1 200 OK..Server: Tengine..Date: Wed, 14 Jun 2023 17:26:38 GMT..Content-Type: application/thrift..Content-Length: 292..Connection: close..................succeed................jitter.......7586166.....umid......"ai0951712c7d30f552419b7729bdf4fc48.....v.......5-5-5.....install_app_version.......2.8.6.13.....install_channel.......Umeng.....install_datetime.......2023-06-15 01:26:38.............. c4c85fbfdc18de7bd855365321551d8e..
+2023-06-15 01:26:33.302 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(Native Method)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.umeng.commonsdk.stateless.c.a(UMSLNetWorkSenderHelper.java:225)
+	at com.umeng.commonsdk.stateless.b.l(UMSLNetWorkSender.java:301)
+	at com.umeng.commonsdk.stateless.b.o(UMSLNetWorkSender.java:419)
+	at com.umeng.commonsdk.stateless.b.g(UMSLNetWorkSender.java:36)
+	at com.umeng.commonsdk.stateless.b$2.handleMessage(UMSLNetWorkSender.java:155)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+2023-06-15 01:26:33.458 | INFO     | __main__:on_message:232 - SSL Session: F75251A91226423243B9B37F80DADEB6D0FABFB03B0E06F9AF3F73FDC7E64DA1
+2023-06-15 01:26:33.459 | INFO     | __main__:on_message:233 - [SSL_write] 192.168.124.3:48644 --> 223.109.148.141:443
+2023-06-15 01:26:33.460 | INFO     | __main__:on_message:241 - POST /unify_logs HTTP/1.1..X-Umeng-UTC: 1679177432913..X-Umeng-Sdk: a/9.5.0 2.8.6.13/Android/aosp_marlin-userdebug 10 QP1A.190711.020 eng.xkz.20230314.162825 test-keys/Pixel XL/10 10d1688e76889955d5d8304d5568112..Content-Type: ut/a..Msg-Type: envelope/json..X-Umeng-Pro-Ver: 1.0.0..SM-IMP: 1..User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; Pixel XL Build/QP1A.190711.020)..Host: ulogs.umeng.com..Connection: Keep-Alive..Accept-Encoding: gzip..Content-Length: 2182......1.0..600913c26a2a470e8f846372.@10302a61af1df7c5322b9d8f0af57485da5e3eda37cd16bac70799211def1664..........h.....pe.....g.......R.&.<...I..=|j.v{..........Q...... .l.H..S..vf..e6P.c.>i..N.3k3.@L^.....{...4.3.g|3.B~...`....&...uN.X..{..8...5..|d@..pA...%L&y.M.o R.UOBj.........|k^.....gz.l......(_t.....>.....?:..2..{-....~m...............U.K.dO.......0.b...{..3....m..(..D.."...q......E.....6au.7}.}s0$.......A.........,....l.......C-.......m...C.eG8C.....W.z.Z.....)8#6...p.S.p.....//...i.-.9.){Er?:..t..A.k....,.v.....(...V4]C....@/S*\....S0.!...E`.ch.G..<?.{....O..1j+...}..0>.x 90D.Dt%V /.{e.*.I7<.......r:q~p.4.........r*...V..-.[.&..|p^...90...g`.4^.......Y...0..i..pn..2B..Z%.M...sB:+T~D.\O./.>8....".._r(;=...bU..(..:...H.R,.w.JT...H.......W....X.#v.........x8....c9^...&)C2.plj@.T....3..\.U.3D^.............4.'R......|...q...k..;$..`..].. ..Vz.......32.%9a....+... R."#s.5.8.....$m.?...U....^...h{9<....S."...w@......C...y...?..@XIw..`.o3F...w..c.p.[..)+2...FW>...=.`.K?.[.Y.+%.v.tD.%c... ....U..A.....C.......8_...........x......aJJ..=.a.V..`V..w.....0....3T.=.....}.3v0.?...>..HnA...D.q8.R.h2..w.Bf." ....E....Tt.....c.1.*.f- .9.%|..q...So..!.....A....q.ql....Q....ty...F.8...@...:.*X...xC.u..7..g....F...*.\3z..+....Z....5/.....}..~."..R...&O..y..|.x).FG..t.x..@.B.l.3.M..l.q..7.<s..I?..V.R714q.X8...#.].....y.....V.......u9......[..s...0....#...............@...6R.......`U.-.......!.\..v'f.c...a....R..u.dX?..*../..o.e..........qo.f........E...;`W....#*{GoF.....Hg.j....w.o.F...........M..n.O.<.../...D.q..'..dpNR..t.....D-.....`....w....$7q..>X4.N.Kr..z'.0oEw.`..H...........g%=r....q.5.._x.]....G..o.E.....$.T.{..A..K.$N_(...J..,..N`7..C..` K...`....$.e.Ec....bstx..[....A....Y.-Y.}.}.......f./...J.Qa..Il...y....):.!d......w@K-...D.._.k.#.6v..........f..a.;..o^.T.u....6..:.xh.....V@N..\........D....;Tp..\ejR9.^xaH. ....nY,.H...&..?..]. ...^......y.....=%.........).Nx.E..#..z......K.".".~..3..(...........>U.........L.].9I..@.i.|.......~\........&.22.....0!0. ...9^".lI1.,...^B....@.O.B.K.....J...1....".x.E'kvD..Y...;Z......>....M......&...@D.S..6.......(b'v...@c8069f61e51b40c53a2d1d8f31f3f485355834dad5cbe0ba6301732147e90000. 46afc44249cb2725b71c01a013d7b228...
+2023-06-15 01:26:33.461 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLOutputStream.write(Native Method)
+	at com.android.okhttp.okio.Okio$1.write(Okio.java:78)
+	at com.android.okhttp.okio.AsyncTimeout$1.write(AsyncTimeout.java:157)
+	at com.android.okhttp.okio.RealBufferedSink.flush(RealBufferedSink.java:222)
+	at com.android.okhttp.internal.http.Http1xStream.finishRequest(Http1xStream.java:163)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:748)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:501)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:294)
+	at com.umeng.commonsdk.statistics.c.a(NetWorkManager.java:175)
+	at com.umeng.commonsdk.framework.a.r(UMNetWorkSender.java:568)
+	at com.umeng.commonsdk.framework.a.k(UMNetWorkSender.java:35)
+	at com.umeng.commonsdk.framework.a$2.handleMessage(UMNetWorkSender.java:316)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+2023-06-15 01:26:33.532 | INFO     | __main__:on_message:232 - SSL Session: F75251A91226423243B9B37F80DADEB6D0FABFB03B0E06F9AF3F73FDC7E64DA1
+2023-06-15 01:26:33.533 | INFO     | __main__:on_message:233 - [SSL_read] 223.109.148.141:443 --> 192.168.124.3:48644
+2023-06-15 01:26:33.533 | INFO     | __main__:on_message:241 - HTTP/1.1 200 OK..Server: Tengine..Date: Wed, 14 Jun 2023 17:26:38 GMT..Content-Type: application/thrift..Content-Length: 403..Connection: close..................succeed................jitter.......7586165.....app_version.......2.8.6.13.....umid......"ai0951712c7d30f552419b7729bdf4fc48.....v.......5-5-5.....os_version.......10.....pretime.......1686763598916.....channel.......Umeng.....install_app_version.......2.8.6.13.....install_channel.......Umeng.....install_datetime.......2023-06-15 01:26:38.............. ced963e7c53e8d78904bcec9000a8173..
+2023-06-15 01:26:33.534 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(Native Method)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:501)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:294)
+	at com.umeng.commonsdk.statistics.c.a(NetWorkManager.java:175)
+	at com.umeng.commonsdk.framework.a.r(UMNetWorkSender.java:568)
+	at com.umeng.commonsdk.framework.a.k(UMNetWorkSender.java:35)
+	at com.umeng.commonsdk.framework.a$2.handleMessage(UMNetWorkSender.java:316)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+2023-06-15 01:26:35.386 | INFO     | __main__:on_message:232 - SSL Session: 
+2023-06-15 01:26:35.386 | INFO     | __main__:on_message:233 - [HTTP_send] 192.168.124.3:37411 --> 222.211.72.77:83
+2023-06-15 01:26:35.387 | INFO     | __main__:on_message:241 - POST /hdqty.php?a=aaaaaaa&b=6D8CACD54C54F8C8B6E660F5CF979961&d=166&e=1.0&f=979 HTTP/1.1..Content-Type: application/x-www-form-urlencoded..User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; Pixel XL Build/QP1A.190711.020)..Host: vip.dqwlyz.cn:83..Connection: Keep-Alive..Accept-Encoding: gzip..Content-Length: 0....
+2023-06-15 01:26:35.388 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:117)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:161)
+	at com.android.okhttp.okio.Okio$1.write(Okio.java:78)
+	at com.android.okhttp.okio.AsyncTimeout$1.write(AsyncTimeout.java:157)
+	at com.android.okhttp.okio.RealBufferedSink.flush(RealBufferedSink.java:222)
+	at com.android.okhttp.internal.http.Http1xStream.finishRequest(Http1xStream.java:163)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:748)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+	at cn.android.hdqters.Plx$100000001.run(Plx.java:135)
+	at java.lang.Thread.run(Thread.java:919)
+
+2023-06-15 01:26:35.456 | INFO     | __main__:on_message:232 - SSL Session: 
+2023-06-15 01:26:35.459 | INFO     | __main__:on_message:233 - [HTTP_recv] 222.211.72.77:83 --> 192.168.124.3:37411
+2023-06-15 01:26:35.460 | INFO     | __main__:on_message:241 - HTTP/1.1 200 OK..Content-Type: text/html;charset=utf-8..Content-Encoding: gzip..Vary: Accept-Encoding..Server: Microsoft-IIS/7.5..X-Powered-By: PHP/5.4.45..Set-Cookie: ZDEDebuggerPresent=php,phtml,php3; path=/..X-Powered-By: ASP.NET..Date: Wed, 14 Jun 2023 17:26:39 GMT..Content-Length: 156.................`.I.%&/m.{.J.J..t...`.$..@.........iG#).*..eVe]f.@......{....{....;.N'...?\fd.l..J...!....?~|.?"....../.................................>......
+2023-06-15 01:26:35.461 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:119)
+	at java.net.SocketInputStream.read(SocketInputStream.java:176)
+	at java.net.SocketInputStream.read(SocketInputStream.java:144)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:248)
+	at cn.android.hdqters.Plx$100000001.run(Plx.java:135)
+	at java.lang.Thread.run(Thread.java:919)
+
+2023-06-15 01:26:36.991 | INFO     | __main__:on_message:232 - SSL Session: F75251A91226423243B9B37F80DADEB6D0FABFB03B0E06F9AF3F73FDC7E64DA1
+2023-06-15 01:26:36.993 | INFO     | __main__:on_message:233 - [SSL_write] 192.168.124.3:48648 --> 223.109.148.141:443
+2023-06-15 01:26:36.994 | INFO     | __main__:on_message:241 - POST /unify_logs HTTP/1.1..X-Umeng-UTC: 1679177436422..X-Umeng-Sdk: i/1.2.0 2.8.6.13/Android/aosp_marlin-userdebug 10 QP1A.190711.020 eng.xkz.20230314.162825 test-keys/Pixel XL/10 10d1688e76889955d5d8304d5568112..Content-Type: ut/i..Msg-Type: envelope/json..X-Umeng-Pro-Ver: 1.0.0..SM-IMP: 1..User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; Pixel XL Build/QP1A.190711.020)..Host: ulogs.umeng.com..Connection: Keep-Alive..Accept-Encoding: gzip..Content-Length: 1910......1.0..600913c26a2a470e8f846372.@10302a61af1df7c5322b9d8f0af57485da5e3eda37cd16bac70799211def1664..........,.......Xfq=.R.>..l.2.0....C.z...dI."L>...B1e9q...3...RX.W...TGP.......$J..a.N].?..o?..A>........Y{.SU#.V...E...T.~....f...oXr...r.......dH{..H...z...$~.......J.|..w6..l|Ry.....sc.5.X7..H.6#.:...M.G*. ....!V.....&....aL..dS.n.t..b..Z....or.".........K.<w..N.......nj..hki.cN.z.!.r..-.$-.3...&f.Y.....'psu.1.Y.I.k.^1.?..3W.8....r..J_.,c....W.0..9q..0k.5tX!W..G....*. .jq}..:.y....!|@I5.6r*...7.....j. ..!..05t.\.. ...{...]f..Z.n.-.2...GA..32Y.......u.<.mPYf..n.u..R-..N&.R}.,n...B.-.?...../)...%......ZB4.KgX.a..%...{d.5....~+.Q(....{.F.....R.@3.m..)@..|.....~. .0m.Ol.J.v.............$#....G.8.vE$...n.!....!....K,....}57.Dk..1..-........O.."....<zG"ZY..4...W.P..|V.2....-(H....y....<.w-....Q}....1rf... ..~#..+j.P...M5L.&s.......o....o5W.^.G..d.....6.e..[6......!..(.....|D...D.#U...:...!.}:3CS.A..X.3..W.yHb.-..\......5.....t..D.l..S.6..{....7.[...+=....."W:..z.A.g..(L ...}.%h....'...5.g%e(....n..-..9tI%F.%!....v].B...u.J"~6..t.#s.......Q.... n.x.u....d>e.....~.NG....)..h...s1.rm@,6.....G.0.v;...w]v.%..(A#.#........_...#,%.)..\=.......J..1U..jt....C............~zH5}...q....~>.Zb.hz.].2....D.z_.".Mx$7.a./..).y....y.o.x.R=.-5.8.:.Q.....W.PJ.........v%....l.kq.up..9Z..W......e..pV..^...r...$.....$..H....`.=....T`=.HA.;..F.{M'...T...,...}.1..'...*P?....q......jiH...8X%.B..2.s....`...H....MOZuir..m.....:.).....g...Y,...........=bJg....pA..(..D.x>...9mM...H..c.]]..iJ.%/d.......8n.. ...:......f...J..].:m0..y...g%I"#O.&.o2.,}*...'\.(.)Y.~d..e"....@jw/.e...#..K)N.~4.?...R.`....;.Z.X:A3R....{,c.....C)l...W....=.5.f..4.l_E.G.a......=..._.........J&.......bo...^M.yx.!1.%k!......5.5H...`<.Ue.\...........=..x.....?......q_../......|U..0e..S\-..{&d.fR...qX...{.<5...@.j5../DP[.......|_.?.0...!A.s..@cc068861df1befc5f72d798fe0f39b857658f3da83cbb3badc01d2216fe90000. b3ae26c572c8c1044d334c31ae30a06e...
+2023-06-15 01:26:36.996 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLOutputStream.write(Native Method)
+	at com.android.okhttp.okio.Okio$1.write(Okio.java:78)
+	at com.android.okhttp.okio.AsyncTimeout$1.write(AsyncTimeout.java:157)
+	at com.android.okhttp.okio.RealBufferedSink.flush(RealBufferedSink.java:222)
+	at com.android.okhttp.internal.http.Http1xStream.finishRequest(Http1xStream.java:163)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:748)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:501)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:294)
+	at com.umeng.commonsdk.statistics.c.a(NetWorkManager.java:175)
+	at com.umeng.commonsdk.framework.a.r(UMNetWorkSender.java:568)
+	at com.umeng.commonsdk.framework.a.k(UMNetWorkSender.java:35)
+	at com.umeng.commonsdk.framework.a$2.handleMessage(UMNetWorkSender.java:316)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+2023-06-15 01:26:37.061 | INFO     | __main__:on_message:232 - SSL Session: F75251A91226423243B9B37F80DADEB6D0FABFB03B0E06F9AF3F73FDC7E64DA1
+2023-06-15 01:26:37.063 | INFO     | __main__:on_message:233 - [SSL_read] 223.109.148.141:443 --> 192.168.124.3:48648
+2023-06-15 01:26:37.064 | INFO     | __main__:on_message:241 - HTTP/1.1 200 OK..Server: Tengine..Date: Wed, 14 Jun 2023 17:26:42 GMT..Content-Type: application/thrift..Content-Length: 112..Connection: close..................succeed................did_ts.......1686763602411.............. 1b934602fd26308e66a845b7d8d2eb84..
+2023-06-15 01:26:37.065 | INFO     | __main__:on_message:242 - java.lang.Throwable
+	at com.android.org.conscrypt.ConscryptFileDescriptorSocket$SSLInputStream.read(Native Method)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+	at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:501)
+	at com.umeng.commonsdk.statistics.internal.c.a(NetworkHelper.java:294)
+	at com.umeng.commonsdk.statistics.c.a(NetWorkManager.java:175)
+	at com.umeng.commonsdk.framework.a.r(UMNetWorkSender.java:568)
+	at com.umeng.commonsdk.framework.a.k(UMNetWorkSender.java:35)
+	at com.umeng.commonsdk.framework.a$2.handleMessage(UMNetWorkSender.java:316)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
